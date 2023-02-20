@@ -14,3 +14,9 @@ https://github.com/Shruthi-Sivagnanam/Os-Concepts
 
 
 
+os bash code
+
+https://github.com/PacktPublishing/Complete-Bash-Shell-Scripting-
+
+
+
